@@ -5,9 +5,9 @@ track at ALX Africa.
 
 
 
-## Author :
+## Author : **Ali A** [a1ee7](https://github.com/a1ee7)
 
-* **Ali A** [a1ee7](https://github.com/a1ee7)
+
 
 ## Acknowledgements :pray:
 
